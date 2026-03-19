@@ -1,33 +1,53 @@
 # Damodaran N K
-### Salesforce Developer & Full-Stack Engineer
 
-Building secure, scalable enterprise systems and automation-driven platforms.
-📍 Ontario, Canada
+Full-Stack Developer · Salesforce Developer · Cybersecurity Background
+Ontario, Canada
 
 ---
 
-I specialize in bridging the gap between robust backend architecture, seamless cloud integrations, and secure application environments. With a foundation in cybersecurity, I approach development with a security-first mindset, ensuring that the SaaS platforms, ERP systems, and web applications I build are both performant and resilient.
+I build production-quality web applications across the full stack — from data modeling and backend logic to storefront UI and payment workflows. My background in cybersecurity shapes how I approach authentication, data handling, and system boundaries.
+
+Currently focused on full-stack development with TypeScript and Next.js, backend systems in .NET and Node.js, and Salesforce CRM development.
+
+---
 
 ### What I Build
-- **Enterprise Integrations:** Architecting scalable Salesforce solutions and optimizing CRM workflows.
-- **Full-Stack Applications:** Developing responsive, data-intensive web and mobile applications using modern frameworks.
-- **Secure Infrastructure:** Implementing secure authentication pipelines, cloud architectures, and conducting vulnerability mitigations.
-- **Intelligent Automation:** Building autonomous agents and workflow automations to streamline complex business logic.
+
+- **E-commerce platforms** — product catalog, checkout flows, order management, transactional email
+- **Backend systems** — webhook processing, risk engines, background workers, clean architecture
+- **Business workflow tools** — interactive simulations, sprint tooling, process automation
+- **CMS-driven storefronts** — headless content architecture with Sanity
+
+---
 
 ### Core Stack
-- **Cloud & CRM:** Salesforce (Apex, LWC, SOQL), AWS
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, PostgreSQL, Prisma, Drizzle ORM
-- **Security & Ops:** OAuth 2.0, Identity Management, Git, Docker
 
-### Featured Work
-- [**Protocol J.A.V.I.S**](https://github.com/Damu-D/Protocol-JAVIS) — AI-driven full-stack control hub orchestrating autonomous agents across platforms.
-- [**Lumora CMS**](https://github.com/Damu-D/Lumora-CMS) — High-performance React/Next.js e-commerce platform with Headless CMS integration.
-- [**TrekLens**](https://github.com/Damu-D/TrekLens-App) — Luxury cross-platform mobile application for secure, real-time geographic tracking and navigation.
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
+**Backend:** Node.js · .NET 8 (C#) · PostgreSQL · Supabase · Redis
+**CMS & Payments:** Sanity · Stripe · Resend
+**Cloud & DevOps:** Docker · Vercel · Azure Container Apps
+**Salesforce:** Apex · LWC · SOQL
+
+---
+
+### Featured Projects
+
+**[Aegis — SDLC Control Tower](https://github.com/Damu-D/ai-sdlc-control-tower)**
+Webhook processing system for GitHub PR events, built on .NET 8 Clean Architecture. Scores risk across diff size, sensitive file categories, and active incident context, then enforces policies and posts Check Runs back to PRs. Backed by PostgreSQL, Redis, and a Next.js dashboard with SignalR for real-time updates.
+
+**[Fortilead](https://github.com/Damu-D/fortilead)**
+Interactive virtual company simulation with 26 unique agent personas across 8 departments. Includes per-agent chat, an animated office map, sprint board, meeting rooms, and a delegation chain that routes a project brief from CEO through CTO, PM, CFO, and Engineering Lead. Built with Next.js and Supabase.
+
+---
 
 ### Currently
-- Deepening expertise in advanced Salesforce integrations.
-- Exploring zero-trust architecture paradigms.
+
+- Completing Lumora — a full-stack e-commerce platform for a fine jewellery brand
+  (Next.js · Sanity CMS · Stripe · Supabase · Resend)
+- Deepening Salesforce development and CRM integration work
+
+---
 
 ### Connect
-[LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio.com) • [Email](mailto:damunagarik@gmail.com)
+
+[Email](mailto:damunagarik@gmail.com)
