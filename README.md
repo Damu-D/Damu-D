@@ -1,22 +1,12 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║              ANIMATED HEADER — CAPSULE RENDER (FIXED)           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=DAMODARAN%20N%20K&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20Systems%20Builder%20%7C%20Cybersecurity%20DNA&descSize=19&descAlignY=64&descColor=58D9F9" width="100%"/>
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║               ANIMATED TYPING SVG (FIXED — NO EMOJI)           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Full-Stack+Engineer+%7C+TypeScript+%2B+.NET+8;Real+Products.+Clean+Architecture.+No+Shortcuts.;Cybersecurity+Mindset+in+Every+System+Layer;AI+Pipelines+%7C+Automation+%7C+SaaS+Platforms;Webhook+Engines+%7C+Risk+Logic+%7C+Real-Time+Systems;Building+Lumora+%E2%80%94+Fine+Jewellery+E-Commerce;Ontario%2C+Canada+%E2%80%94+Open+to+Remote+Globally" alt="Typing SVG"/>
 
 <br/><br/>
-
-<!-- BADGE ROW -->
 
 <img src="https://komarev.com/ghpvc/?username=damu-d&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
@@ -27,9 +17,6 @@
 <img src="https://img.shields.io/badge/Ontario%2C%20Canada-FF6B35?style=for-the-badge&logo=mapbox&logoColor=white"/>
 
 <br/><br/>
-
-<!-- ANIMATED WAVE SEPARATOR -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
@@ -57,14 +44,14 @@ class DamodaranNK:
         "security":   ["Auth design", "Risk engines", "Webhook security", "Data boundaries"],
     }
 
-    currently_building = "Lumora — Full-Stack E-Commerce for Fine Jewellery"
+    currently_building = "Lumora - Full-Stack E-Commerce for Fine Jewellery"
     philosophy         = "Production quality. Clean architecture. Zero shortcuts."
 
     def approach(self) -> str:
         return (
             "Every system I build is shaped by a cybersecurity mindset.\n"
-            "Auth flows, data handling, and system boundaries aren't\n"
-            "afterthoughts — they're foundational design decisions."
+            "Auth flows, data handling, and system boundaries are not\n"
+            "afterthoughts -- they are foundational design decisions."
         )
 
     def fun_fact(self) -> str:
@@ -187,7 +174,7 @@ Intercepts GitHub PR events via webhook. Scores risk across **diff size**, **sen
 
 > *Production-grade multi-agent business platform*
 
-**26 unique AI agent personas** across 8 company departments. A full delegation chain routes a project brief: CEO → CTO → PM → CFO → Engineering Lead. Features animated office map, per-agent chat, sprint board, meeting rooms, and document routing system.
+**26 unique AI agent personas** across 8 company departments. A full delegation chain routes a project brief: CEO to CTO to PM to CFO to Engineering Lead. Features animated office map, per-agent chat, sprint board, meeting rooms, and document routing system.
 
 *Architecture: Real-time · Agent-based · Event-driven UI*
 
@@ -229,9 +216,9 @@ Complete commerce platform: **Sanity CMS** product catalog with rich media, **St
 
 <div align="center">
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=damu-d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=BF00FF&text_color=FFFFFF&ring_color=BF00FF"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damu-d&theme=github_dark"/>
 &nbsp;&nbsp;
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damu-d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damu-d&theme=github_dark"/>
 
 <br/><br/>
 
@@ -249,11 +236,7 @@ Complete commerce platform: **Sanity CMS** product catalog with rich media, **St
 
 <br/>
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damu-d&theme=github_dark"/>
-&nbsp;
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=damu-d&theme=github_dark"/>
-&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=damu-d&theme=github_dark"/>
 &nbsp;
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=damu-d&theme=github_dark&utcOffset=-5"/>
 
