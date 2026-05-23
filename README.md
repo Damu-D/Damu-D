@@ -1,12 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=DAMODARAN%20N%20K&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Systems%20Builder%20%7C%20Cybersecurity%20DNA&descSize=20&descAlignY=62&descColor=58D9F9" width="100%"/>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              ANIMATED HEADER — CAPSULE RENDER (FIXED)           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=DAMODARAN%20N%20K&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Engineer%20%7C%20Systems%20Builder%20%7C%20Cybersecurity%20DNA&descSize=19&descAlignY=64&descColor=58D9F9" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=🚀+Full-Stack+Engineer+%7C+TypeScript+%2B+.NET+8;⚡+Real+Products.+Clean+Architecture.+No+Shortcuts.;🛡️+Cybersecurity+Mindset+in+Every+System+Layer;🤖+AI+Pipelines+%7C+Automation+%7C+SaaS+Platforms;🏗️+Webhook+Engines+%7C+Risk+Logic+%7C+Real-Time+Systems;💎+Currently+Building+Lumora+—+Fine+Jewellery;🌐+Ontario%2C+Canada+—+Open+to+Remote+Globally" alt="Typing SVG"/>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║               ANIMATED TYPING SVG (FIXED — NO EMOJI)           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&height=55&lines=Full-Stack+Engineer+%7C+TypeScript+%2B+.NET+8;Real+Products.+Clean+Architecture.+No+Shortcuts.;Cybersecurity+Mindset+in+Every+System+Layer;AI+Pipelines+%7C+Automation+%7C+SaaS+Platforms;Webhook+Engines+%7C+Risk+Logic+%7C+Real-Time+Systems;Building+Lumora+%E2%80%94+Fine+Jewellery+E-Commerce;Ontario%2C+Canada+%E2%80%94+Open+to+Remote+Globally" alt="Typing SVG"/>
 
 <br/><br/>
+
+<!-- BADGE ROW -->
 
 <img src="https://komarev.com/ghpvc/?username=damu-d&color=7B2FBE&style=for-the-badge&label=PROFILE+VIEWS"/>
 &nbsp;
@@ -14,25 +24,28 @@
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00FF41?style=for-the-badge"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📍-Ontario%2C%20Canada-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ontario%2C%20Canada-FF6B35?style=for-the-badge&logo=mapbox&logoColor=white"/>
 
 <br/><br/>
+
+<!-- ANIMATED WAVE SEPARATOR -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 </div>
 
 ---
 
-## 🧬 `> whoami`
+## `> whoami`
 
 ```python
 class DamodaranNK:
     name       = "Damodaran N K"
     alias      = "Damu"
-    location   = "Ontario, Canada 🍁"
+    location   = "Ontario, Canada"
     education  = [
-        "BSc — Computer Science & Engineering",
-        "Graduate Certificate — Information Technology",
-        "MSc — Cybersecurity",
+        "BSc - Computer Science & Engineering",
+        "Graduate Certificate - Information Technology",
+        "MSc - Cybersecurity",
     ]
 
     stack = {
@@ -44,7 +57,7 @@ class DamodaranNK:
         "security":   ["Auth design", "Risk engines", "Webhook security", "Data boundaries"],
     }
 
-    currently_building = "💎 Lumora — Full-Stack E-Commerce for Fine Jewellery"
+    currently_building = "Lumora — Full-Stack E-Commerce for Fine Jewellery"
     philosophy         = "Production quality. Clean architecture. Zero shortcuts."
 
     def approach(self) -> str:
@@ -55,12 +68,12 @@ class DamodaranNK:
         )
 
     def fun_fact(self) -> str:
-        return "I built a virtual company with 26 AI agent personas before it was cool 🤖"
+        return "I built a virtual company with 26 AI agent personas before it was cool"
 ```
 
 ---
 
-## 🏗️ WHAT I BUILD
+## WHAT I BUILD
 
 <div align="center">
 
@@ -109,7 +122,7 @@ class DamodaranNK:
 
 ---
 
-## ⚡ TECH ARSENAL
+## TECH ARSENAL
 
 <div align="center">
 
@@ -144,7 +157,7 @@ class DamodaranNK:
 
 ---
 
-## 🔥 FLAGSHIP PROJECTS
+## FLAGSHIP PROJECTS
 
 <div align="center">
 
@@ -152,55 +165,50 @@ class DamodaranNK:
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ Aegis — SDLC Control Tower</h3>
+### Aegis — SDLC Control Tower
 
-<blockquote><em>Webhook intelligence engine for GitHub pull requests</em></blockquote>
+> *Webhook intelligence engine for GitHub pull requests*
 
-<p>Intercepts GitHub PR events via webhook. Scores risk across <strong>diff size</strong>, <strong>sensitive file categories</strong> (auth, config, migrations), and <strong>active incident context</strong>. Enforces custom policies, posts automated <strong>GitHub Check Runs</strong> in real time. Next.js dashboard with <strong>SignalR</strong> for live event streaming.</p>
+Intercepts GitHub PR events via webhook. Scores risk across **diff size**, **sensitive file categories** (auth, config, migrations), and **active incident context**. Enforces custom policies, posts automated **GitHub Check Runs** in real time. Next.js dashboard with **SignalR** for live event streaming.
 
-<p><em>Architecture: Clean Architecture · CQRS · Event-driven</em></p>
+*Architecture: Clean Architecture · CQRS · Event-driven*
 
-<p>
 <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 FortiLead — AI Company Simulation</h3>
+### FortiLead — AI Company Simulation
 
-<blockquote><em>Production-grade multi-agent business platform</em></blockquote>
+> *Production-grade multi-agent business platform*
 
-<p><strong>26 unique AI agent personas</strong> across 8 company departments. Full delegation chain: CEO → CTO → PM → CFO → Engineering Lead. Features animated office map, per-agent chat, sprint board, meeting rooms, and document routing system.</p>
+**26 unique AI agent personas** across 8 company departments. A full delegation chain routes a project brief: CEO → CTO → PM → CFO → Engineering Lead. Features animated office map, per-agent chat, sprint board, meeting rooms, and document routing system.
 
-<p><em>Architecture: Real-time · Agent-based · Event-driven UI</em></p>
+*Architecture: Real-time · Agent-based · Event-driven UI*
 
-<p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Framer_Motion-BB4B96?style=flat-square&logo=framer&logoColor=white"/>
-</p>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center" valign="top">
 
-<h3>💎 Lumora — Fine Jewellery E-Commerce &nbsp;<img src="https://img.shields.io/badge/🚧%20IN%20PROGRESS-FF6B35?style=flat-square"/></h3>
+### Lumora — Fine Jewellery E-Commerce &nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-FF6B35?style=flat-square"/>
 
-<blockquote><em>Full-stack production-grade headless storefront for a fine jewellery brand</em></blockquote>
+> *Full-stack production-grade headless storefront for a fine jewellery brand*
 
-<p>Complete commerce platform: <strong>Sanity CMS</strong> product catalog with rich media, <strong>Stripe</strong> checkout with webhook-driven order processing, full order management system, <strong>Resend</strong> transactional email, <strong>Supabase</strong> with Row Level Security, and <strong>Next.js App Router</strong> deployed on Vercel Edge.</p>
+Complete commerce platform: **Sanity CMS** product catalog with rich media, **Stripe** checkout with webhook-driven order processing, full order management system, **Resend** transactional email, **Supabase** backend with Row Level Security, and **Next.js App Router** deployed on Vercel Edge.
 
-<p><em>Architecture: Headless CMS · Webhook-driven · Edge-deployed · Server Components</em></p>
+*Architecture: Headless CMS · Webhook-driven · Edge-deployed · Server Components*
 
-<p>
 <img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sanity_CMS-F03E2F?style=flat-square&logo=sanity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white"/>
@@ -208,7 +216,6 @@ class DamodaranNK:
 <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel_Edge-000000?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
 
 </td>
 </tr>
@@ -218,7 +225,7 @@ class DamodaranNK:
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
+## GITHUB COMMAND CENTER
 
 <div align="center">
 
@@ -234,7 +241,7 @@ class DamodaranNK:
 
 ---
 
-## 📈 CONTRIBUTION INTELLIGENCE
+## CONTRIBUTION INTELLIGENCE
 
 <div align="center">
 
@@ -254,7 +261,7 @@ class DamodaranNK:
 
 ---
 
-## 📡 ACTIVITY SIGNAL
+## ACTIVITY SIGNAL
 
 <div align="center">
 
@@ -264,31 +271,31 @@ class DamodaranNK:
 
 ---
 
-## 🌐 3D CONTRIBUTION GALAXY
+## 3D CONTRIBUTION GALAXY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Damu-D/Damu-D/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions — run GitHub Action to activate"/>
+<img src="https://raw.githubusercontent.com/Damu-D/Damu-D/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
 
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## CONTRIBUTION SNAKE
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damu-D/Damu-D/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damu-D/Damu-D/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Damu-D/Damu-D/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake — run GitHub Action to activate"/>
+  <img src="https://raw.githubusercontent.com/Damu-D/Damu-D/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </picture>
 
 </div>
 
 ---
 
-## 🏆 TROPHY CABINET
+## TROPHY CABINET
 
 <div align="center">
 
@@ -298,7 +305,7 @@ class DamodaranNK:
 
 ---
 
-## 😄 RANDOM DEV JOKE
+## RANDOM DEV JOKE
 
 <div align="center">
 
@@ -308,23 +315,31 @@ class DamodaranNK:
 
 ---
 
-## 🛰️ LET'S BUILD SOMETHING
+## LET'S BUILD SOMETHING
 
 <div align="center">
 
 <br/>
 
-[![Email](https://img.shields.io/badge/damunk034%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damunk034@gmail.com)
-&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/nkdamud%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nkdamud@gmail.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/damunagarik%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damunagarik@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/damu--d-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damu-d)
-&nbsp;&nbsp;
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damodaran-nk)
 
 <br/><br/>
 
-<img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="600"/>
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Full--Time%20Roles-00FF41?style=for-the-badge&logo=briefcase&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Contract%20%2F%20Freelance-00D9FF?style=for-the-badge&logo=upwork&logoColor=black"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/Open%20Source%20Collab-BF00FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/></td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 > *"I don't just write code — I engineer systems that work in production."*
 
@@ -332,4 +347,4 @@ class DamodaranNK:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
